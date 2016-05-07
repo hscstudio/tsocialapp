@@ -11,11 +11,14 @@ Test Social App
 - Signup
 - Login/Logout
 - Update Profile
+- Use Layout
 
 ## Explanation
-This app have one entry script `index.php` that will access page
+This app have one entry script `index.php` that will access page or views
 
 Page located in `pages`
+
+Every page will have default layouts
 
 
 
